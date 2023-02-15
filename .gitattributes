@@ -1,5 +1,3 @@
 *.py linguist-detectable=True
-*.jupyternotebook linguist-detectable=True
-
-
+*.ipynb linguist-detectable= Python
 
